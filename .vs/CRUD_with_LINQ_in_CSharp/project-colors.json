@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2a71eea7-48e7-4052-bb57-3a3d4808d99c": {
+      "ProjectGuid": "2a71eea7-48e7-4052-bb57-3a3d4808d99c",
+      "DisplayName": "CRUD_with_LINQ_in_CSharp",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

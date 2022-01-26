@@ -1,0 +1,11 @@
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\bin\Debug\CRUD_with_LINQ_in_CSharp.exe.config
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\bin\Debug\CRUD_with_LINQ_in_CSharp.exe
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\bin\Debug\CRUD_with_LINQ_in_CSharp.pdb
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.csproj.AssemblyReference.cache
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.Form1.resources
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.Properties.Resources.resources
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.csproj.GenerateResource.cache
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.csproj.CoreCompileInputs.cache
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.exe
+C:\Users\keith\Desktop\Tutorial files\CRUD_with_LINQ_in_CSharp\CRUD_with_LINQ_in_CSharp\obj\Debug\CRUD_with_LINQ_in_CSharp.pdb
